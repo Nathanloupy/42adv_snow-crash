@@ -59,7 +59,6 @@ getflag
 ```bash
 flag00@SnowCrash:~$ getflag
 Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
-flag00@SnowCrash:~$
 ```
 
 ## Additional Notes
