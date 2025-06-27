@@ -4,13 +4,11 @@
 When browsing the files of the home of level02 user, we can see there is a .pcap file, it's a wireshark file.
 
 ```bash
-ls -al
+ls -Al
 ```
 
 ```
 total 24
-dr-x------ 1 level02 level02  120 Mar  5  2016 .
-d--x--x--x 1 root    users    340 Aug 30  2015 ..
 -r-x------ 1 level02 level02  220 Apr  3  2012 .bash_logout
 -r-x------ 1 level02 level02 3518 Aug 30  2015 .bashrc
 -r-x------ 1 level02 level02  675 Apr  3  2012 .profile
