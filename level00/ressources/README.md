@@ -17,7 +17,7 @@ find / -user flag00 2>/dev/null
 
 We can see that the two files are owned by flag00.
 
-```bash
+```
 /usr/sbin/john
 /rofs/usr/sbin/john
 ```
@@ -31,7 +31,7 @@ cat /rofs/usr/sbin/john
 
 We can see that the two files are the same.
 
-```bash
+```
 cdiiddwpgswtgt
 ```
 
@@ -56,8 +56,7 @@ We can now execute getflag with user flag00.
 getflag
 ```
 
-```bash
-flag00@SnowCrash:~$ getflag
+```
 Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
 ```
 

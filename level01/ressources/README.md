@@ -42,8 +42,7 @@ We can now execute getflag with user flag01.
 getflag
 ```
 
-```bash
-flag01@SnowCrash:~$ getflag
+```
 Check flag.Here is your token : f2av5il02puano7naaf6adaaf
 ```
 
