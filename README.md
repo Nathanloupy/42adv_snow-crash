@@ -4,7 +4,7 @@ This project is an ISO challenge, the first one of the security branch at 42 Sch
 
 ## Grading
 
-This project is part of the advanced curriculum at 42 School.
+This project is part of my advanced curriculum at 42 School.
 
 - **Date of completion:** 2025-06-27
 - **Grade:** 100/100
